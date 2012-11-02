@@ -1,6 +1,6 @@
 Face Detection
 
-This code uses the Haar Cascade Classifier to detect face in a video feed and display it in a window
+This code uses the Haar Cascade Classifier to detect face in a video feed (webcam used here) and display it in a window
 
 The training samples and raw images are stored in a folder named Training in C: drive
 
