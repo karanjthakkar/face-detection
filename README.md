@@ -16,7 +16,7 @@ WARNING: This property sheet can be used only if you have the OpenCV installatio
 
 # LICENSE
 
-MIT (See the [LICENSE](https://github.com/karanjthakkar/face-detection/blob/master/LICENSE.txt) file)
+(See the [LICENSE](https://github.com/karanjthakkar/face-detection/blob/master/LICENSE.txt) file)
 
 For any feedback, comment, advice, bugs, please contact me at:
 karanjthakkar (at) gmail (dot) com
