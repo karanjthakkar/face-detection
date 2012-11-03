@@ -1,4 +1,4 @@
-#Face Detection
+# Face Detection
 
 This code uses the Haar Cascade Classifier to detect face in a video feed (webcam used here) and display it in a window
 
