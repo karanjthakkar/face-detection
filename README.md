@@ -17,6 +17,7 @@ WARNING: This property sheet can be used only if you have the OpenCV installatio
 # Downloading the source code
 
 For users unfamiliar with `github`: You can download the source code as a zip file by clicking [here](https://github.com/karanjthakkar/face-detection/archive/master.zip)
+
 For users who have used github before: You can simply fork the repository(if you intend to make changes and pull them to master) and/or clone it on your local machine
 
 # LICENSE
