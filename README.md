@@ -10,7 +10,6 @@ The code has been tested on the following configuration:
 
 The build configuration for the project in Visual Studio was x64(Release).
 
-
 For users using OpenCV for the first time in a Visual Studio project, a custom property sheet has been provided "OpenCV.props"
 WARNING: This property sheet can be used only if you have the OpenCV installation path as: C:\OpenCV-2.4.2\opencv
 
@@ -25,4 +24,4 @@ For users who have used github before: You can simply fork the repository(if you
 (See the [LICENSE](https://github.com/karanjthakkar/face-detection/blob/master/LICENSE.txt) file)
 
 For any feedback, comment, advice, bugs, please contact me at:
-karanjthakkar (at) gmail (dot) com
+**karanjthakkar (at) gmail (dot) com**
