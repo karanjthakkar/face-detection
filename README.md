@@ -22,6 +22,10 @@ For users unfamiliar with `github`: You can download the source code as a zip fi
 
 For users who have used github before: You can simply fork the repository(if you intend to make changes and pull them to master) and/or clone it on your local machine
 
+#Tutorial
+
+If you are looking at a tutorial to help you use OpenCV with Visual Studio 2012 on Windows 7 64-bit, then [this blog post is just for you](http://karanjthakkar.wordpress.com/2012/11/21/usin-opencv-2-4-2-with-visual-studio-2012-on-windows-7-64-bit/)
+
 # LICENSE
 
 [Simplified BSD](http://en.wikipedia.org/wiki/BSD_licenses#2-clause_license_.28.22Simplified_BSD_License.22_or_.22FreeBSD_License.22.29)(See the [LICENSE](https://github.com/karanjthakkar/face-detection/blob/master/LICENSE.txt) file)
